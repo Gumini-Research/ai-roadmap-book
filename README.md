@@ -10,7 +10,7 @@
 |---|---|---|
 | 2장 | 5분 실습 노트북 (loss 곡선 그리기) | [Gumini-Research/loss_curve_5min](https://github.com/Gumini-Research/loss_curve_5min) |
 | 6장 | nanoGPT (교재 코드, MIT License) | [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) |
-| 6장 | 스케일링 법칙 노트북 (실험 3의 이론 쪽 짝) | [Gumini-Research/loss_curve_5min](https://github.com/Gumini-Research/loss_curve_5min) |
+| 6장 | 스케일링 법칙 노트북 scaling_laws.ipynb (실험 3의 이론 쪽 짝) | [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT/blob/master/scaling_laws.ipynb) |
 
 - 2장 노트북은 Google Colab에서 바로 열립니다. 설치할 것이 없습니다.
 - 6장 코드 인용은 nanoGPT 2025년 11월 12일자 버전 기준입니다. 6장의 실험은 전부 CPU로 돌아갑니다.
